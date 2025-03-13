@@ -1,0 +1,589 @@
+Prompt 1:
+Reasoned about inclusive language alternatives for 1m 26s
+Below is a list of the original terms with context and suggested inclusive alternatives. In each case, the alternative is paired with a revised example sentence that maintains the intended technical meaning while avoiding potentially harmful or non-inclusive language.
+
+Abort
+
+Inclusive Alternative: exit
+Revised Sentence: "The program will automatically exit if a critical error occurs during execution."
+Terminate
+
+Inclusive Alternative: cancel
+Revised Sentence: "The user chose to cancel the installation process after encountering an error."
+Average user
+
+Inclusive Alternative: everyday user
+Revised Sentence: "The app is designed to be intuitive for everyday users."
+Black box
+
+Inclusive Alternative: opaque model
+Revised Sentence: "The algorithm functions as an opaque model, with no transparency about how decisions are made."
+White box
+
+Inclusive Alternative: open box testing
+Revised Sentence: "The open box testing method allows developers to see the internal workings of the code."
+Black hat
+
+Inclusive Alternative: malicious actor
+Revised Sentence: "The company detected a malicious actor attempting to infiltrate their systems."
+White hat
+
+Inclusive Alternative: ethical hacker
+Revised Sentence: "An ethical hacker helped identify security vulnerabilities in the new software."
+Blacklist
+
+Inclusive Alternative: blocklist
+Revised Sentence: "The IP address was added to the company’s blocklist after repeated failed login attempts."
+Whitelist
+
+Inclusive Alternative: allowlist
+Revised Sentence: "Only pre-approved devices are included in the network’s allowlist."
+Blind
+
+Inclusive Alternative: anonymous
+Revised Sentence: "The paper underwent an anonymous review process to ensure impartiality."
+Double blind
+
+Inclusive Alternative: double anonymous
+Revised Sentence: "The experiment was conducted under double anonymous conditions to eliminate bias."
+Male connector
+
+Inclusive Alternative: plug
+Revised Sentence: "The cable is equipped with a plug for compatibility with standard ports."
+Female connector
+
+Inclusive Alternative: socket
+Revised Sentence: "The connector provides a socket for easy integration with other components."
+She
+
+Inclusive Alternative: they (or simply rephrase to avoid gender-specific pronouns)
+Revised Sentence: "They were responsible for coordinating the team’s efforts on the project."
+Her
+
+Inclusive Alternative: their
+Revised Sentence: "Their contribution to the discussion was insightful and appreciated."
+Hers
+
+Inclusive Alternative: theirs
+Revised Sentence: "The credit for the innovative design is entirely theirs."
+He
+
+Inclusive Alternative: they
+Revised Sentence: "They led the presentation with confidence and clarity."
+Him
+
+Inclusive Alternative: them
+Revised Sentence: "The team assigned the most critical task to them."
+His
+
+Inclusive Alternative: their
+Revised Sentence: "Their programming skills greatly improved the project’s outcome."
+Master (database)
+
+Inclusive Alternative: primary
+Revised Sentence: "The primary database contains all the key records for the organization."
+Slave
+
+Inclusive Alternative: replica
+Revised Sentence: "The secondary system operates as a replica to the primary server."
+Quantum supremacy
+
+Inclusive Alternative: quantum advantage
+Revised Sentence: "Achieving quantum advantage marks a significant milestone in computing."
+Grandfathered
+
+Inclusive Alternative: legacy
+Revised Sentence: "The older software was maintained as a legacy system despite the new policy."
+Guys
+
+Inclusive Alternative: everyone (or team)
+Revised Sentence: "Hey everyone, let’s gather for the meeting in five minutes."
+Man hours
+
+Inclusive Alternative: person-hours
+Revised Sentence: "Completing the project required 100 person-hours of effort."
+Sanity check
+
+Inclusive Alternative: basic functionality check
+Revised Sentence: "Before deploying the code, we need to perform a basic functionality check."
+Sanity test
+
+Inclusive Alternative: preliminary test
+Revised Sentence: "A quick preliminary test revealed several issues in the new feature."
+Dummy value
+
+Inclusive Alternative: placeholder value
+Revised Sentence: "Developers use a placeholder value during testing."
+Scrum master
+
+Inclusive Alternative: scrum lead (or agile facilitator)
+Revised Sentence: "The scrum lead facilitated the daily stand-up meeting."
+Mob programming
+
+Inclusive Alternative: collaborative programming session
+Revised Sentence: "The team opted for a collaborative programming session to tackle the complex issue together."
+Segregation (of duties)
+
+Inclusive Alternative: separation of duties
+Revised Sentence: "The system’s separation of duties ensures secure operations."
+Blackout period
+
+Inclusive Alternative: downtime period
+Revised Sentence: "A downtime period was enforced during the system upgrade."
+Gray hat
+
+Inclusive Alternative: hacker with ambiguous ethics
+Revised Sentence: "A hacker with ambiguous ethics reported the vulnerabilities after exploiting them for demonstration."
+Native (feature)
+
+Inclusive Alternative: built-in
+Revised Sentence: "The app includes a built-in feature for photo editing."
+Red team
+
+Inclusive Alternative: adversary simulation team
+Revised Sentence: "The adversary simulation team simulated an attack to test the organization’s defenses."
+Web master
+
+Inclusive Alternative: web administrator
+Revised Sentence: "The web administrator updated the website’s layout for better usability."
+White space
+
+Inclusive Alternative: negative space
+Revised Sentence: "The designer added negative space to improve the page's readability."
+White team
+
+Inclusive Alternative: control team
+Revised Sentence: "The control team oversaw the cyber exercise and ensured fair play."
+Yellow team
+
+Inclusive Alternative: security advisory team
+Revised Sentence: "The security advisory team focused on optimizing the software’s security during development."
+Aboriginal
+
+Inclusive Alternative: Indigenous
+Revised Sentence: "The land’s history is deeply rooted in Indigenous culture and traditions."
+Brown bags
+
+Inclusive Alternative: lunch and learn sessions
+Revised Sentence: "The company hosted lunch and learn sessions to share knowledge informally."
+First-class citizen
+
+Inclusive Alternative: fundamental object (or first-class value)
+Revised Sentence: "Functions are treated as fundamental objects in many programming languages."
+Man-in-the-middle
+
+Inclusive Alternative: person-in-the-middle
+Revised Sentence: "The person-in-the-middle attack intercepted sensitive information during transmission."
+Master branch
+
+Inclusive Alternative: main branch
+Revised Sentence: "Changes were merged into the main branch for deployment."
+Minority
+
+Inclusive Alternative: underrepresented groups
+Revised Sentence: "Efforts to promote diversity aim to amplify the voices of underrepresented groups."
+Normal
+
+Inclusive Alternative: usual state
+Revised Sentence: "The system is back to its usual state after resolving the outage."
+Handicapped
+
+Inclusive Alternative: people with disabilities
+Revised Sentence: "The venue was upgraded to be accessible for people with disabilities."
+Crazy
+
+Inclusive Alternative: unconventional
+Revised Sentence: "The plan was considered unconventional but turned out to be a brilliant success."
+OCD
+
+Inclusive Alternative: strong attention to detail
+Revised Sentence: "His desk organization reflects a strong attention to detail."
+Culture fit
+
+Inclusive Alternative: cultural alignment
+Revised Sentence: "The company prioritizes cultural alignment when hiring new employees."
+Chairman
+
+Inclusive Alternative: chair
+Revised Sentence: "The chair called for a vote on the proposed changes."
+Foreman
+
+Inclusive Alternative: site supervisor
+Revised Sentence: "The site supervisor oversaw the construction with expertise."
+Man (in general statements)
+
+Inclusive Alternative: humanity
+Revised Sentence: "Humanity has always sought to understand the universe."
+Mankind
+
+Inclusive Alternative: humanity
+Revised Sentence: "Humanity has made significant strides in technology over the centuries."
+Mans (as a verb)
+
+Inclusive Alternative: operates
+Revised Sentence: "The crew operates the ship during long voyages."
+Salesman
+
+Inclusive Alternative: salesperson
+Revised Sentence: "The salesperson demonstrated the product’s key features effectively."
+Manmade
+
+Inclusive Alternative: human-made
+Revised Sentence: "The reservoir is a human-made structure designed for water storage."
+Manpower
+
+Inclusive Alternative: human resources
+Revised Sentence: "The project required significant human resources to complete on time."
+Demilitarized zone
+
+Inclusive Alternative: isolated network zone
+Revised Sentence: "The network’s isolated security zone protects internal systems from external threats."
+DMZ
+
+Inclusive Alternative: isolated network segment
+Revised Sentence: "The server operates within the isolated network segment for added security."
+Hang
+
+Inclusive Alternative: become unresponsive
+Revised Sentence: "The application tends to become unresponsive when handling large datasets."
+Daughter board
+
+Inclusive Alternative: expansion board
+Revised Sentence: "The new functionality was implemented through an expansion board."
+Gender bender
+
+Inclusive Alternative: connector adapter
+Revised Sentence: "The adapter functions as a connector adapter for connecting devices."
+Orphaned object
+
+Inclusive Alternative: unattached object
+Revised Sentence: "The cleanup script removed the unattached object from the database."
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Prompt 2:
+Reasoned about non-inclusive technical terms for 6 seconds
+Below is a comprehensive list with each term, a suggested inclusive alternative, and a revised example sentence that preserves the intended technical meaning while avoiding potentially harmful language.
+
+Abort
+
+Inclusive Alternative: exit
+Revised Sentence: "The program will automatically exit if a critical error occurs during execution."
+Terminate
+
+Inclusive Alternative: cancel
+Revised Sentence: "The user chose to cancel the installation process after encountering an error."
+Average user
+
+Inclusive Alternative: everyday user
+Revised Sentence: "The app is designed to be intuitive for everyday users."
+Black box
+
+Inclusive Alternative: opaque model
+Revised Sentence: "The algorithm functions as an opaque model, with no transparency about how decisions are made."
+White box
+
+Inclusive Alternative: open box testing
+Revised Sentence: "The open box testing method allows developers to see the internal workings of the code."
+Black hat
+
+Inclusive Alternative: malicious actor
+Revised Sentence: "The company detected a malicious actor attempting to infiltrate their systems."
+White hat
+
+Inclusive Alternative: ethical hacker
+Revised Sentence: "An ethical hacker helped identify security vulnerabilities in the new software."
+Blacklist
+
+Inclusive Alternative: blocklist
+Revised Sentence: "The IP address was added to the company’s blocklist after repeated failed login attempts."
+Whitelist
+
+Inclusive Alternative: allowlist
+Revised Sentence: "Only pre-approved devices are included in the network’s allowlist."
+Blind
+
+Inclusive Alternative: anonymous
+Revised Sentence: "The paper underwent an anonymous review process to ensure impartiality."
+Double blind
+
+Inclusive Alternative: double anonymous
+Revised Sentence: "The experiment was conducted under double anonymous conditions to eliminate bias."
+Male connector
+
+Inclusive Alternative: plug
+Revised Sentence: "The cable is equipped with a plug for compatibility with standard ports."
+Female connector
+
+Inclusive Alternative: socket
+Revised Sentence: "The connector provides a socket for easy integration with other components."
+She
+
+Inclusive Alternative: they (or rephrase to avoid gender-specific pronouns)
+Revised Sentence: "They were responsible for coordinating the team’s efforts on the project."
+Her
+
+Inclusive Alternative: their
+Revised Sentence: "Their contribution to the discussion was insightful and appreciated."
+Hers
+
+Inclusive Alternative: theirs
+Revised Sentence: "The credit for the innovative design is entirely theirs."
+He
+
+Inclusive Alternative: they
+Revised Sentence: "They led the presentation with confidence and clarity."
+Him
+
+Inclusive Alternative: them
+Revised Sentence: "The team assigned the most critical task to them."
+His
+
+Inclusive Alternative: their
+Revised Sentence: "Their programming skills greatly improved the project’s outcome."
+Master (as in a primary system or database)
+
+Inclusive Alternative: primary
+Revised Sentence: "The primary database contains all the key records for the organization."
+Slave
+
+Inclusive Alternative: replica (or secondary)
+Revised Sentence: "The secondary system operates as a replica to the primary server."
+Quantum supremacy
+
+Inclusive Alternative: quantum advantage
+Revised Sentence: "Achieving quantum advantage marks a significant milestone in computing."
+Grandfathered
+
+Inclusive Alternative: legacy
+Revised Sentence: "The older software was maintained as a legacy system despite the new policy."
+Guys
+
+Inclusive Alternative: everyone (or team)
+Revised Sentence: "Hey everyone, let’s gather for the meeting in five minutes."
+Man hours
+
+Inclusive Alternative: person-hours
+Revised Sentence: "Completing the project required 100 person-hours of effort."
+Sanity check
+
+Inclusive Alternative: basic functionality check
+Revised Sentence: "Before deploying the code, we need to perform a basic functionality check."
+Sanity test
+
+Inclusive Alternative: preliminary test
+Revised Sentence: "A quick preliminary test revealed several issues in the new feature."
+Dummy value
+
+Inclusive Alternative: placeholder value
+Revised Sentence: "Developers use a placeholder value during testing."
+Scrum master
+
+Inclusive Alternative: scrum lead (or agile facilitator)
+Revised Sentence: "The scrum lead facilitated the daily stand-up meeting."
+Mob programming
+
+Inclusive Alternative: collaborative programming session
+Revised Sentence: "The team opted for a collaborative programming session to tackle the complex issue together."
+Segregation (of duties)
+
+Inclusive Alternative: separation of duties
+Revised Sentence: "The system’s separation of duties ensures secure operations."
+Blackout period
+
+Inclusive Alternative: downtime period
+Revised Sentence: "A downtime period was enforced during the system upgrade."
+Gray hat
+
+Inclusive Alternative: hacker with ambiguous ethics
+Revised Sentence: "A hacker with ambiguous ethics reported the vulnerabilities after exploiting them for demonstration."
+Native (as in a built-in feature)
+
+Inclusive Alternative: built-in
+Revised Sentence: "The app includes a built-in feature for photo editing."
+Red team
+
+Inclusive Alternative: adversary simulation team
+Revised Sentence: "The adversary simulation team simulated an attack to test the organization’s defenses."
+Web master
+
+Inclusive Alternative: web administrator
+Revised Sentence: "The web administrator updated the website’s layout for better usability."
+White space
+
+Inclusive Alternative: negative space
+Revised Sentence: "The designer added negative space to improve the page's readability."
+White team
+
+Inclusive Alternative: control team
+Revised Sentence: "The control team oversaw the cyber exercise and ensured fair play."
+Yellow team
+
+Inclusive Alternative: security advisory team
+Revised Sentence: "The security advisory team focused on optimizing the software’s security during development."
+Aboriginal
+
+Inclusive Alternative: Indigenous
+Revised Sentence: "The land’s history is deeply rooted in Indigenous culture and traditions."
+Brown bags
+
+Inclusive Alternative: lunch and learn sessions
+Revised Sentence: "The company hosted lunch and learn sessions to share knowledge informally."
+First-class citizen
+
+Inclusive Alternative: fundamental entity (or first-class value)
+Revised Sentence: "Functions are treated as fundamental entities in many programming languages."
+Man-in-the-middle
+
+Inclusive Alternative: person-in-the-middle
+Revised Sentence: "The person-in-the-middle attack intercepted sensitive information during transmission."
+Master branch
+
+Inclusive Alternative: main branch
+Revised Sentence: "Changes were merged into the main branch for deployment."
+Minority
+
+Inclusive Alternative: underrepresented groups
+Revised Sentence: "Efforts to promote diversity aim to amplify the voices of underrepresented groups."
+Normal
+
+Inclusive Alternative: usual state
+Revised Sentence: "The system is back to its usual state after resolving the outage."
+Handicapped
+
+Inclusive Alternative: people with disabilities
+Revised Sentence: "The venue was upgraded to be accessible for people with disabilities."
+Crazy
+
+Inclusive Alternative: unconventional
+Revised Sentence: "The plan was considered unconventional but turned out to be a brilliant success."
+OCD
+
+Inclusive Alternative: strong attention to detail
+Revised Sentence: "His desk organization reflects a strong attention to detail."
+Culture fit
+
+Inclusive Alternative: cultural alignment
+Revised Sentence: "The company prioritizes cultural alignment when hiring new employees."
+Chairman
+
+Inclusive Alternative: chair
+Revised Sentence: "The chair called for a vote on the proposed changes."
+Foreman
+
+Inclusive Alternative: site supervisor
+Revised Sentence: "The site supervisor oversaw the construction with expertise."
+Man (in general statements)
+
+Inclusive Alternative: humanity
+Revised Sentence: "Humanity has always sought to understand the universe."
+Mankind
+
+Inclusive Alternative: humanity
+Revised Sentence: "Humanity has made significant strides in technology over the centuries."
+Mans
+
+Inclusive Alternative: operates
+Revised Sentence: "The crew operates the ship during long voyages."
+Salesman
+
+Inclusive Alternative: salesperson
+Revised Sentence: "The salesperson demonstrated the product’s key features effectively."
+Manmade
+
+Inclusive Alternative: human-made
+Revised Sentence: "The reservoir is a human-made structure designed for water storage."
+Manpower
+
+Inclusive Alternative: human resources
+Revised Sentence: "The project required significant human resources to complete on time."
+Demilitarized zone
+
+Inclusive Alternative: isolated network zone
+Revised Sentence: "The network’s isolated security zone protects internal systems from external threats."
+DMZ
+
+Inclusive Alternative: isolated network segment
+Revised Sentence: "The server operates within the isolated network segment for added security."
+Hang
+
+Inclusive Alternative: become unresponsive
+Revised Sentence: "The application tends to become unresponsive when handling large datasets."
+Daughter board
+
+Inclusive Alternative: expansion board
+Revised Sentence: "The new functionality was implemented through an expansion board."
+Gender bender
+
+Inclusive Alternative: connector adapter
+Revised Sentence: "The adapter functions as a connector adapter for connecting devices."
+Orphaned object
+
+Inclusive Alternative: unattached object
+Revised Sentence: "The cleanup script removed the unattached object from the database."
+Each of these revisions strives to maintain technical clarity while promoting language that is respectful and inclusive.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Prompt 3:
+Here are inclusive alternatives for each term:
+
+Abort → The program will automatically stop if a critical error occurs during execution.
+Terminate → The user chose to end the installation process after encountering an error.
+Average user → The app is designed to be intuitive for the typical user.
+Black box → The algorithm functions as an opaque system, with no transparency about how decisions are made.
+White box → The transparent testing method allows developers to see the internal workings of the code.
+Black hat → The company detected a malicious hacker attempting to infiltrate their systems.
+White hat → A security researcher helped identify vulnerabilities in the new software.
+Blacklist → The IP address was added to the company’s blocklist after repeated failed login attempts.
+Whitelist → Only pre-approved devices are included in the network’s allowlist.
+Blind → The paper underwent a anonymous review process to ensure impartiality.
+Double blind → The experiment was conducted under double-anonymous conditions to eliminate bias.
+Male connector → The cable is equipped with a plug-type connector for compatibility with standard ports.
+Female connector → The socket-type connector allows for easy integration with other components.
+She/Her/Hers/He/Him/His → Use specific names or they/them if gender-neutral language is preferred.
+Master → The primary database contains all the key records for the organization.
+Slave → The secondary system operates in sync with the primary server.
+Quantum supremacy → Achieving quantum advantage marks a significant milestone in computing.
+Grandfathered → The older software was exempted despite the new policy.
+Guys → Hey team, let’s gather for the meeting in five minutes.
+Man hours → Completing the project required 100 work hours of effort.
+Sanity check → Before deploying the code, we need to perform a quick check.
+Sanity test → A quick smoke test revealed several issues in the new feature.
+Dummy value → Developers use a placeholder value during testing.
+Scrum master → The Scrum lead facilitated the daily stand-up meeting.
+Mob programming → The team opted for ensemble programming to tackle the complex issue collaboratively.
+Segregation → The system’s separation of duties ensures secure operations.
+Blackout period → A restricted period was enforced during the system upgrade.
+Gray hat → The ethical hacker reported the vulnerabilities after demonstrating them.
+Native → The app includes a built-in feature for photo editing.
+Red team → The offensive security team simulated an attack to test the organization’s defenses.
+Web master → The web administrator updated the website’s layout for better usability.
+White space → The designer added padding/margin to improve the page's readability.
+White team → The oversight team ensured fairness in the cyber exercise.
+Yellow team → The optimization team focused on software security.
+Aboriginal → Use Indigenous or refer to a specific cultural group.
+Brown bags → The company hosted lunch and learn sessions to share knowledge informally.
+First-class citizen → Functions are treated as core elements in many programming languages.
+Man-in-the-middle → The on-path attack intercepted sensitive information during transmission.
+Master branch → Changes were merged into the main branch for deployment.
+Minority → Efforts to promote diversity aim to amplify the voices of underrepresented groups.
+Normal → The system is back to standard operation after resolving the outage.
+Handicapped → The venue was upgraded to be accessible for people with disabilities.
+Crazy → The plan was considered unconventional but turned out to be a brilliant success.
+OCD → His desk organization reflects a hint of perfectionist tendencies.
+Culture fit → The company prioritizes values alignment when hiring new employees.
+Chairman → The chairperson called for a vote on the proposed changes.
+Foreman → The site supervisor supervised the construction with expertise.
+Man → Humans have always sought to understand the universe.
+Mankind → Humanity has made significant strides in technology over the centuries.
+Mans → The crew operates the ship during long voyages.
+Salesman → The sales representative demonstrated the product’s key features effectively.
+Manmade → The reservoir is an artificial structure designed for water storage.
+Manpower → The project required significant workforce to complete on time.
+Demilitarized zone (DMZ) → The network’s perimeter zone protects internal systems from external threats.
+Hang → The application tends to freeze when handling large datasets.
+Daughter board → The new functionality was implemented through an auxiliary board.
+Gender bender → The adapter functions as a connector adapter for different ports.
+Orphaned object → The cleanup script removed the unused object from the database.
+These alternatives aim to promote inclusivity while maintaining clarity and technical precision.
