@@ -1,0 +1,236 @@
+﻿Prompt 1:
+I'll provide inclusive alternatives for each of the potentially problematic terms in your list. Here's a comprehensive guide to more inclusive language options:
+Technical Process Terms
+* Abort: "Cancel," "Stop," "Halt," "End," "Discontinue"
+* Terminate: "End," "Close," "Stop," "Discontinue," "Conclude"
+User References
+* Average user: "Typical user," "General user," "Most users," "Mainstream user"
+Testing Terminology
+* Black box: "Closed box," "Opaque system," "Hidden implementation"
+* White box: "Clear box," "Transparent box," "Open box," "Visible implementation"
+* Black hat: "Malicious actor," "Unauthorized hacker," "Adversarial hacker"
+* White hat: "Ethical hacker," "Security researcher," "Authorized tester"
+* Blacklist: "Blocklist," "Deny list," "Exclusion list"
+* Whitelist: "Allowlist," "Permit list," "Inclusion list"
+* Blind: "Anonymous," "Unnamed," "Unidentified"
+* Double blind: "Double anonymous," "Dual anonymous"
+Hardware Terms
+* Male connector: "Plug," "Outward connector," "Protruding connector"
+* Female connector: "Socket," "Inward connector," "Receptacle"
+Pronouns
+* She/Her/Hers, He/Him/His: Use "They/Them/Their" for gender-neutral references, or use specific names/roles
+System Relationships
+* Master: "Primary," "Main," "Leader," "Controller," "Host"
+* Slave: "Secondary," "Replica," "Follower," "Worker," "Client"
+Other Technical Terms
+* Quantum supremacy: "Quantum advantage," "Quantum computational advantage"
+* Grandfathered: "Legacy-approved," "Previously exempt," "Historically allowed"
+* Guys: "Everyone," "Team," "Folks," "All," "Everyone," "People"
+* Man hours: "Person hours," "Labor hours," "Work hours," "Staff hours"
+* Sanity check/test: "Quick check," "Basic check," "Coherence check," "Logic check"
+* Dummy value: "Placeholder," "Sample value," "Test value," "Mock value"
+* Scrum master: "Scrum facilitator," "Agile coach," "Scrum coordinator"
+* Mob programming: "Ensemble programming," "Team programming," "Collaborative programming"
+* Segregation: "Separation," "Division," "Partition," "Isolation"
+* Blackout period: "Restricted period," "Maintenance window," "Downtime period"
+* Gray hat: "Semi-ethical hacker," "Boundary hacker," "Conditional hacker"
+* Native: "Built-in," "Integrated," "Core," "Inherent"
+* Red team: "Attack team," "Adversary team," "Offensive team"
+* Web master: "Web administrator," "Website manager," "Web coordinator"
+* White space: "Negative space," "Empty space," "Blank space"
+* White team: "Oversight team," "Evaluation team," "Monitoring team"
+* Yellow team: "Build security team," "Security development team"
+* Aboriginal: "Indigenous," "First Nations," "First Peoples" (use specific nation/tribe names when possible)
+* Brown bags: "Lunch and learn," "Knowledge sharing session," "Informal learning session"
+* First-class citizen: "First-class entity," "First-class object," "Core feature"
+* Man-in-the-middle: "Person-in-the-middle," "Interception attack," "MITM attack"
+* Master branch: "Main branch," "Primary branch," "Default branch"
+* Minority: "Underrepresented group," "Marginalized community"
+* Normal: "Expected," "Standard," "Typical," "Default," "Baseline"
+* Handicapped: "Person with disabilities," "Accessible," "Disability-friendly"
+* Crazy: "Unexpected," "Surprising," "Unconventional," "Bold," "Remarkable"
+* OCD: "Detail-oriented," "Thorough," "Meticulous," "Precise"
+* Culture fit: "Values alignment," "Team compatibility," "Organizational fit"
+Gendered Role Terms
+* Chairman: "Chair," "Chairperson," "Meeting leader"
+* Foreman: "Supervisor," "Team leader," "Site manager"
+* Man: "Person," "Individual," "Human," "People"
+* Mankind: "Humanity," "Humankind," "People," "Human species"
+* Mans: "Operates," "Staffs," "Runs," "Works"
+* Salesman: "Salesperson," "Sales representative," "Sales associate"
+* Manmade: "Artificial," "Manufactured," "Synthetic," "Human-made"
+* Manpower: "Workforce," "Staff," "Personnel," "Human resources"
+Networking Terms
+* Demilitarized zone/DMZ: "Perimeter network," "Edge network," "Buffer zone"
+* Hang: "Freeze," "Become unresponsive," "Stop responding"
+Other Hardware/Software Terms
+* Daughter board: "Expansion board," "Secondary board," "Auxiliary board"
+* Gender bender: "Adapter," "Connector converter," "Interface adapter"
+* Orphaned object: "Unreferenced object," "Disconnected object," "Isolated object"
+These alternatives help create more inclusive technical documentation and communication while maintaining clarity and precision.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Prompt 2:
+Inclusive Technical Language Guide
+This guide provides alternative terms for potentially problematic language in technical contexts. Using more inclusive language helps create a more welcoming environment for all team members and users.
+Process Terminology
+Original Term
+	Inclusive Alternatives
+	Abort
+	Cancel, Stop, Halt, End, Discontinue
+	Terminate
+	End, Close, Stop, Conclude, Exit
+	User References
+Original Term
+	Inclusive Alternatives
+	Average user
+	Typical user, General user, Most users, Target user
+	Security & Testing Terminology
+Original Term
+	Inclusive Alternatives
+	Black box
+	Closed box, Opaque system, Hidden implementation
+	White box
+	Clear box, Transparent box, Open box, Visible implementation
+	Black hat
+	Malicious actor, Unauthorized hacker, Threat actor
+	White hat
+	Ethical hacker, Security researcher, Authorized tester
+	Blacklist
+	Blocklist, Deny list, Exclusion list
+	Whitelist
+	Allowlist, Permit list, Inclusion list
+	Blind
+	Anonymous, Unnamed, Unidentified
+	Double blind
+	Double anonymous, Dual anonymous
+	Hardware Terminology
+Original Term
+	Inclusive Alternatives
+	Male connector
+	Plug, Outward connector, Protruding connector
+	Female connector
+	Socket, Inward connector, Receptacle
+	Pronouns
+Original Term
+	Inclusive Alternatives
+	She/Her/Hers
+	They/Them/Their, or refer to the person by name/role
+	He/Him/His
+	They/Them/Their, or refer to the person by name/role
+	System Relationship Terminology
+Original Term
+	Inclusive Alternatives
+	Master
+	Primary, Main, Leader, Controller, Host
+	Slave
+	Secondary, Replica, Follower, Worker, Client
+	Other Technical Terms
+Original Term
+	Inclusive Alternatives
+	Quantum supremacy
+	Quantum advantage, Quantum computational advantage
+	Grandfathered
+	Legacy-approved, Previously exempt, Historically allowed
+	Guys
+	Everyone, Team, Folks, All, People, Colleagues
+	Man hours
+	Person hours, Labor hours, Work hours, Staff hours
+	Sanity check/test
+	Quick check, Basic check, Coherence check, Logic check
+	Dummy value
+	Placeholder, Sample value, Test value, Mock value
+	Scrum master
+	Scrum facilitator, Agile coach, Scrum coordinator
+	Mob programming
+	Ensemble programming, Team programming, Collaborative programming
+	Segregation
+	Separation, Division, Partition, Isolation
+	Blackout period
+	Restricted period, Maintenance window, Downtime period
+	Gray hat
+	Semi-ethical hacker, Boundary hacker
+	Native
+	Built-in, Integrated, Core, Inherent
+	Red team
+	Attack team, Adversary team, Offensive team
+	Web master
+	Web administrator, Site manager, Web coordinator
+	White space
+	Negative space, Empty space, Blank space
+	White team
+	Oversight team, Evaluation team, Monitoring team
+	Yellow team
+	Build security team, Security development team
+	Aboriginal
+	Indigenous, First Nations, First Peoples
+	Brown bags
+	Lunch and learn, Knowledge sharing session
+	First-class citizen
+	First-class entity, First-class object, Core feature
+	Man-in-the-middle
+	Person-in-the-middle, Interception attack, MITM attack
+	Master branch
+	Main branch, Primary branch, Default branch
+	Minority
+	Underrepresented group, Marginalized community
+	Normal
+	Expected, Standard, Typical, Default, Baseline
+	Handicapped
+	Person with disabilities, Accessible, Disability-friendly
+	Crazy
+	Unexpected, Surprising, Unconventional, Bold
+	OCD
+	Detail-oriented, Thorough, Meticulous, Precise
+	Culture fit
+	Values alignment, Team compatibility, Organizational fit
+	Gendered Role Terms
+Original Term
+	Inclusive Alternatives
+	Chairman
+	Chair, Chairperson, Meeting leader
+	Foreman
+	Supervisor, Team leader, Site manager
+	Man
+	Person, Individual, Human, People
+	Mankind
+	Humanity, Humankind, People
+	Mans
+	Operates, Staffs, Runs, Works
+	Salesman
+	Salesperson, Sales representative, Sales associate
+	Manmade
+	Artificial, Manufactured, Synthetic, Human-made
+	Manpower
+	Workforce, Staff, Personnel, Human resources
+	Networking & Hardware Terms
+Original Term
+	Inclusive Alternatives
+	Demilitarized zone/DMZ
+	Perimeter network, Edge network, Buffer zone
+	Hang
+	Freeze, Become unresponsive, Stop responding
+	Daughter board
+	Expansion board, Secondary board, Auxiliary board
+	Gender bender
+	Adapter, Connector converter, Interface adapter
+	Orphaned object
+	Unreferenced object, Disconnected object, Isolated object
+	Usage Examples
+Original: "The program will automatically abort if a critical error occurs during execution." Inclusive: "The program will automatically halt if a critical error occurs during execution."
+Original: "The IP address was added to the company's blacklist after repeated failed login attempts." Inclusive: "The IP address was added to the company's blocklist after repeated failed login attempts."
+Original: "The master database contains all the key records for the organization." Inclusive: "The primary database contains all the key records for the organization."
+Original: "The man-in-the-middle attack intercepted sensitive information during transmission." Inclusive: "The interception attack captured sensitive information during transmission."
+Original: "Completing the project required 100 man hours of effort." Inclusive: "Completing the project required 100 person hours of effort."
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Prompt 3:
+I notice you've shared the same document again. The artifact I created in my previous response contains a comprehensive guide with inclusive alternatives for all the terms in your list.
+Is there a specific aspect of inclusive language you'd like me to address further? Perhaps you're looking for:
+1. More example sentences showing the terms in context
+2. Additional alternatives for specific terms
+3. Implementation strategies for organizations adopting inclusive language
+4. Explanations for why certain terms are problematic
+Feel free to let me know what specific information would be most helpful to you!

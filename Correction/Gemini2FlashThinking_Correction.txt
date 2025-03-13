@@ -1,0 +1,402 @@
+﻿Prompt 1:
+Here are inclusive alternatives for each of the harmful terms you listed:
+Harmful Term
+	Inclusive Alternative(s)
+	Abort
+	Cancel, Halt, Stop, Interrupt
+	Terminate
+	End, Close, Stop, Finish
+	Average user
+	Typical user, Standard user, General user, Intended user
+	Black box
+	Opaque box, Non-transparent box, Undocumented process
+	White box
+	Transparent box, Glass box, Open box
+	Black hat
+	Malicious actor, Unethical hacker, Attacker
+	White hat
+	Ethical hacker, Security researcher
+	Blacklist
+	Denylist, Blocklist, Exclusion list
+	Whitelist
+	Allowlist, Passlist, Inclusion list
+	Blind
+	Blinded review, Anonymized review
+	Double blind
+	Double-blinded review, Fully anonymized review, Independent review
+	Male connector
+	Plug connector, Pin connector
+	Female connector
+	Receptacle connector, Socket connector
+	She
+	They (in general examples), Rephrase to avoid pronoun
+	Her
+	Them (in general examples), Rephrase to avoid pronoun
+	Hers
+	Theirs (in general examples), Rephrase to avoid pronoun
+	He
+	They (in general examples), Rephrase to avoid pronoun
+	Him
+	Them (in general examples), Rephrase to avoid pronoun
+	His
+	Theirs (in general examples), Rephrase to avoid pronoun
+	Master
+	Primary, Main, Leader, Controller
+	Slave
+	Secondary, Replica, Follower, Agent
+	Quantum supremacy
+	Quantum advantage, Quantum preeminence
+	Grandfathered
+	Legacy status, Retained status, Exempt under previous policy, Previously approved
+	Guys
+	Everyone, Folks, Team, People
+	Man hours
+	Person-hours, Work hours, Labor hours, Staff hours
+	Sanity check
+	Quick check, Basic check, Initial check, Confidence test, Smoke test
+	Sanity test
+	Quick test, Basic test, Initial test, Confidence test, Smoke test
+	Dummy value
+	Placeholder value, Sample value, Example value, Test value
+	Scrum master
+	Scrum facilitator, Project facilitator
+	Mob programming
+	Ensemble programming, Collaborative programming
+	Segregation
+	Separation, Isolation, Compartmentalization, Distinction
+	Blackout period
+	Maintenance window, Downtime, Outage period
+	Gray hat
+	Ambiguous actor, Actor with unclear motives, Semi-authorized actor
+	Native
+	Built-in, Inherent, Default, Platform-specific
+	Red team
+	Security testing team, Offensive security team, Attack simulation team
+	Web master
+	Web administrator, Web lead, Website maintainer
+	White space
+	Spacing, Negative space, Padding
+	White team
+	Oversight team, Moderation team, Control team
+	Yellow team
+	Security optimization team, Performance team, Team [Specific Function]
+	Aboriginal
+	Indigenous, First Peoples, Original (context dependent)
+	Brown bags
+	Informal learning session, Lunch and learn session, Knowledge sharing session
+	First-class citizen
+	Primary citizen, Essential citizen, Core component, Fundamental element
+	Man-in-the-middle
+	Intermediary attack, Eavesdropping attack, Relay attack
+	Master branch
+	Main branch, Default branch, Primary branch
+	Minority
+	Underrepresented group, Marginalized group, Specific demographic group (context dependent)
+	Normal
+	Typical, Expected, Standard, Regular
+	Handicapped
+	Accessible, People with disabilities, Persons with disabilities, Users with disabilities
+	Crazy
+	Unconventional, Unexpected, Surprising, Innovative, Remarkable
+	OCD
+	Meticulous, Organized, Detail-oriented, Orderly, Neat
+	Culture fit
+	Team contribution, Values alignment, Collaborative spirit, Shared values
+	Chairman
+	Chairperson, Chair, Presiding officer, Coordinator
+	Foreman
+	Supervisor, Team lead, Site supervisor
+	Man
+	Humankind, People, Humanity (in general statements about humans)
+	Mankind
+	Humankind, Humanity, People
+	Mans
+	Crews, Staffs, Operates
+	Salesman
+	Salesperson, Sales representative
+	Manmade
+	Synthetic, Engineered, Artificial, Constructed
+	Manpower
+	Staffing, Workforce, Personnel, Team members
+	Demilitarized zone
+	Perimeter network, Screened subnet, Isolated network
+	DMZ
+	Perimeter network, Screened subnet, Isolated network
+	Hang
+	Freeze, Become unresponsive, Stall, Become blocked
+	Daughter board
+	Expansion board, Add-on board, Secondary board
+	Gender bender
+	Gender changer, Gender adapter, Connector adapter
+	Orphaned object
+	Unreferenced object, Unlinked object, Detached object
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Prompt 2:
+Here are inclusive alternatives for each of the harmful terms you listed:
+Harmful Term
+	Inclusive Alternative(s)
+	Abort
+	Cancel, Halt, Stop, Interrupt
+	Terminate
+	End, Close, Stop, Finish
+	Average user
+	Typical user, Standard user, General user, Intended user
+	Black box
+	Opaque box, Non-transparent box, Undocumented process
+	White box
+	Transparent box, Glass box, Open box
+	Black hat
+	Malicious actor, Unethical hacker, Attacker
+	White hat
+	Ethical hacker, Security researcher
+	Blacklist
+	Denylist, Blocklist, Exclusion list
+	Whitelist
+	Allowlist, Passlist, Inclusion list
+	Blind
+	Blinded review, Anonymized review
+	Double blind
+	Double-blinded review, Fully anonymized review, Independent review
+	Male connector
+	Plug connector, Pin connector
+	Female connector
+	Receptacle connector, Socket connector
+	She
+	They (in general examples), Rephrase to avoid pronoun
+	Her
+	They (in general examples), Rephrase to avoid pronoun
+	Hers
+	Theirs (in general examples), Rephrase to avoid pronoun
+	He
+	They (in general examples), Rephrase to avoid pronoun
+	Him
+	Them (in general examples), Rephrase to avoid pronoun
+	His
+	Theirs (in general examples), Rephrase to avoid pronoun
+	Master
+	Primary, Main, Leader, Controller
+	Slave
+	Secondary, Replica, Follower, Agent
+	Quantum supremacy
+	Quantum advantage, Quantum preeminence
+	Grandfathered
+	Legacy status, Retained status, Exempt under previous policy, Previously approved
+	Guys
+	Everyone, Folks, Team, People
+	Man hours
+	Person-hours, Work hours, Labor hours, Staff hours
+	Sanity check
+	Quick check, Basic check, Initial check, Confidence test, Smoke test
+	Sanity test
+	Quick test, Basic test, Initial test, Confidence test, Smoke test
+	Dummy value
+	Placeholder value, Sample value, Example value, Test value
+	Scrum master
+	Scrum facilitator, Project facilitator
+	Mob programming
+	Ensemble programming, Collaborative programming
+	Segregation
+	Separation, Isolation, Compartmentalization, Distinction
+	Blackout period
+	Maintenance window, Downtime, Outage period
+	Gray hat
+	Ambiguous actor, Actor with unclear motives, Semi-authorized actor
+	Native
+	Built-in, Inherent, Default, Platform-specific
+	Red team
+	Security testing team, Offensive security team, Attack simulation team
+	Web master
+	Web administrator, Web lead, Website maintainer
+	White space
+	Spacing, Negative space, Padding
+	White team
+	Oversight team, Moderation team, Control team
+	Yellow team
+	Security optimization team, Performance team, Team [Specific Function]
+	Aboriginal
+	Indigenous, First Peoples, Original (context dependent)
+	Brown bags
+	Informal learning session, Lunch and learn session, Knowledge sharing session
+	First-class citizen
+	Primary citizen, Essential citizen, Core component, Fundamental element
+	Man-in-the-middle
+	Intermediary attack, Eavesdropping attack, Relay attack
+	Master branch
+	Main branch, Default branch, Primary branch
+	Minority
+	Underrepresented group, Marginalized group, Specific demographic group (context dependent)
+	Normal
+	Typical, Expected, Standard, Regular
+	Handicapped
+	Accessible, People with disabilities, Persons with disabilities, Users with disabilities
+	Crazy
+	Unconventional, Unexpected, Surprising, Innovative, Remarkable
+	OCD
+	Meticulous, Organized, Detail-oriented, Orderly, Neat
+	Culture fit
+	Team contribution, Values alignment, Collaborative spirit, Shared values
+	Chairman
+	Chairperson, Chair, Presiding officer, Coordinator
+	Foreman
+	Supervisor, Team lead, Site supervisor
+	Man
+	Humankind, People, Humanity (in general statements about humans)
+	Mankind
+	Humankind, Humanity, People
+	Mans
+	Crews, Staffs, Operates
+	Salesman
+	Salesperson, Sales representative
+	Manmade
+	Synthetic, Engineered, Artificial, Constructed
+	Manpower
+	Staffing, Workforce, Personnel, Team members
+	Demilitarized zone
+	Perimeter network, Screened subnet, Isolated network
+	DMZ
+	Perimeter network, Screened subnet, Isolated network
+	Hang
+	Freeze, Become unresponsive, Stall, Become blocked
+	Daughter board
+	Expansion board, Add-on board, Secondary board
+	Gender bender
+	Gender changer, Gender adapter, Connector adapter
+	Orphaned object
+	Unreferenced object, Unlinked object, Detached object
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Prompt 3:
+Here are inclusive alternatives for each of the harmful terms you listed:
+Harmful Term
+	Inclusive Alternative(s)
+	Abort
+	Cancel, Halt, Stop, Interrupt
+	Terminate
+	End, Close, Stop, Finish
+	Average user
+	Typical user, Standard user, General user, Intended user
+	Black box
+	Opaque box, Non-transparent box, Undocumented process
+	White box
+	Transparent box, Glass box, Open box
+	Black hat
+	Malicious actor, Unethical hacker, Attacker
+	White hat
+	Ethical hacker, Security researcher
+	Blacklist
+	Denylist, Blocklist, Exclusion list
+	Whitelist
+	Allowlist, Passlist, Inclusion list
+	Blind
+	Blinded review, Anonymized review
+	Double blind
+	Double-blinded review, Fully anonymized review, Independent review
+	Male connector
+	Plug connector, Pin connector
+	Female connector
+	Receptacle connector, Socket connector
+	She
+	They (in general examples), Rephrase to avoid pronoun
+	Her
+	They (in general examples), Rephrase to avoid pronoun
+	Hers
+	Theirs (in general examples), Rephrase to avoid pronoun
+	He
+	They (in general examples), Rephrase to avoid pronoun
+	Him
+	Them (in general examples), Rephrase to avoid pronoun
+	His
+	Theirs (in general examples), Rephrase to avoid pronoun
+	Master
+	Primary, Main, Leader, Controller
+	Slave
+	Secondary, Replica, Follower, Agent
+	Quantum supremacy
+	Quantum advantage, Quantum preeminence
+	Grandfathered
+	Legacy status, Retained status, Exempt under previous policy, Previously approved
+	Guys
+	Everyone, Folks, Team, People
+	Man hours
+	Person-hours, Work hours, Labor hours, Staff hours
+	Sanity check
+	Quick check, Basic check, Initial check, Confidence test, Smoke test
+	Sanity test
+	Quick test, Basic test, Initial test, Confidence test, Smoke test
+	Dummy value
+	Placeholder value, Sample value, Example value, Test value
+	Scrum master
+	Scrum facilitator, Project facilitator
+	Mob programming
+	Ensemble programming, Collaborative programming
+	Segregation
+	Separation, Isolation, Compartmentalization, Distinction
+	Blackout period
+	Maintenance window, Downtime, Outage period
+	Gray hat
+	Ambiguous actor, Actor with unclear motives, Semi-authorized actor
+	Native
+	Built-in, Inherent, Default, Platform-specific
+	Red team
+	Security testing team, Offensive security team, Attack simulation team
+	Web master
+	Web administrator, Web lead, Website maintainer
+	White space
+	Spacing, Negative space, Padding
+	White team
+	Oversight team, Moderation team, Control team
+	Yellow team
+	Security optimization team, Performance team, Team [Specific Function]
+	Aboriginal
+	Indigenous, First Peoples, Original (context dependent)
+	Brown bags
+	Informal learning session, Lunch and learn session, Knowledge sharing session
+	First-class citizen
+	Primary citizen, Essential citizen, Core component, Fundamental element
+	Man-in-the-middle
+	Intermediary attack, Eavesdropping attack, Relay attack
+	Master branch
+	Main branch, Default branch, Primary branch
+	Minority
+	Underrepresented group, Marginalized group, Specific demographic group (context dependent)
+	Normal
+	Typical, Expected, Standard, Regular
+	Handicapped
+	Accessible, People with disabilities, Persons with disabilities, Users with disabilities
+	Crazy
+	Unconventional, Unexpected, Surprising, Innovative, Remarkable
+	OCD
+	Meticulous, Organized, Detail-oriented, Orderly, Neat
+	Culture fit
+	Team contribution, Values alignment, Collaborative spirit, Shared values
+	Chairman
+	Chairperson, Chair, Presiding officer, Coordinator
+	Foreman
+	Supervisor, Team lead, Site supervisor
+	Man
+	Humankind, People, Humanity (in general statements about humans)
+	Mankind
+	Humankind, Humanity, People
+	Mans
+	Crews, Staffs, Operates
+	Salesman
+	Salesperson, Sales representative
+	Manmade
+	Synthetic, Engineered, Artificial, Constructed
+	Manpower
+	Staffing, Workforce, Personnel, Team members
+	Demilitarized zone
+	Perimeter network, Screened subnet, Isolated network
+	DMZ
+	Perimeter network, Screened subnet, Isolated network
+	Hang
+	Freeze, Become unresponsive, Stall, Become blocked
+	Daughter board
+	Expansion board, Add-on board, Secondary board
+	Gender bender
+	Gender changer, Gender adapter, Connector adapter
+	Orphaned object
+	Unreferenced object, Unlinked object, Detached object
